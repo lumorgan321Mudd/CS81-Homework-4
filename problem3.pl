@@ -62,9 +62,9 @@ eval([*, Left, Right], Value) :-
     eval(Right, RightValue),
     Value is LeftValue * RightValue.
 
-eval([//, Left, Right], Value) :- 
+eval([/, Left, Right], Value) :- 
     eval(Left, LeftValue),
     eval(Right, RightValue),
-    Value is LeftValue // RightValue.
+    Value is LeftValue / RightValue.
 
 
