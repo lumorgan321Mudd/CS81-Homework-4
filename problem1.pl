@@ -1,8 +1,8 @@
 %% CS 81, Logic and Computability
 %% Homework 4, Problem 1
 %% More Trees!
-%% YOUR NAME HERE
-%% DATE HERE
+%% Luke Morgan
+%% 10/6/26
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% BASE CASE - STARTER CODE

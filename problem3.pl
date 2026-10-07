@@ -1,8 +1,8 @@
 %% CS 81, Logic and Computability
 %% Homework 4, Problem 3
 %% A problem inspired by the Four Fours Puzzle!
-%% YOUR NAME HERE
-%% DATE HERE
+%% Luke Morgan
+%% 10/6/26
 
 %% The solve predicate evaluates to true if the arithmetic tree, Tree
 %% uses some subset of the operations specified in Operations (which is
